@@ -1,6 +1,10 @@
 import { StyleSheet, Text, View, TouchableOpacity } from 'react-native'
 import React from 'react'
+<<<<<<< HEAD
 import {Colors} from '../constants'
+=======
+import {Colors} from '../constans'
+>>>>>>> fa0f06121e01f92ac7f3f0adc9594351ab001f13
 
 const Buttons = ({on_press, btn_text}) => {
   return (

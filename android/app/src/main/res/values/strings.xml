@@ -1,4 +1,9 @@
 <resources>
+<<<<<<< HEAD
   <string name="app_name">fe_app</string>
   <string name="expo_runtime_version">1.0.0</string>
 </resources>
+=======
+    <string name="app_name">fe_app</string>
+</resources>
+>>>>>>> fa0f06121e01f92ac7f3f0adc9594351ab001f13

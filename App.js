@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
@@ -72,3 +73,26 @@ const App = () => {
 };
 
 export default App;
+=======
+import { Text, View } from 'react-native';
+import React from 'react';
+import { NavigationContainer } from '@react-navigation/native';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
+import { Splash, Onboarding, Login } from './src/screens'  
+
+const Stack = createNativeStackNavigator();
+const App = () => {
+  return (
+    <NavigationContainer>
+      <Stack.Navigator screenOptions={{headerShown: false}}>
+        <Stack.Screen name="Splash" component={Splash}/>
+        <Stack.Screen name="Onboarding" component={Onboarding}/>
+        <Stack.Screen name="Login" component={Login}/>
+      </Stack.Navigator>
+    </NavigationContainer>
+  )
+}
+
+export default App
+
+>>>>>>> fa0f06121e01f92ac7f3f0adc9594351ab001f13

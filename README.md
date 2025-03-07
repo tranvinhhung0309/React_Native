@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -77,3 +78,12 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+=======
+# Exercise 2
+Description: Chức năng SpashScreen, Onboarding và Login
+Result Image:
+![image](https://github.com/user-attachments/assets/385de618-4680-40f0-879c-e98e10d2d42e)
+![image](https://github.com/user-attachments/assets/e6f45516-8e0c-4ec0-9d97-aa863e1119b2)
+![image](https://github.com/user-attachments/assets/3720cffd-7d47-4f01-8d42-db0ff03a1b68)
+
+>>>>>>> fa0f06121e01f92ac7f3f0adc9594351ab001f13
